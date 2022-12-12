@@ -1,3 +1,3 @@
-# Tercer Entrega- CoderHouse
+# Tercera Entrega- CoderHouse
 
 //
